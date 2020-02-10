@@ -1,0 +1,56 @@
+.slideone{
+    text-align: center;
+    background-color: blue;
+    
+}
+.slideone .one{
+    color: red;
+}
+.slideone .two{
+    color:green;
+}
+.slideone .three{
+    color:orange;
+}
+.firstvideo{
+    background-color:lightblue;
+    text-align: center;
+    padding-bottom:5em;
+    padding-top:3em;
+}
+.secondvideo{
+    background-color:purple;
+    text-align: center;
+    padding-bottom:5em;
+    padding-top:3em;
+}
+.thirdvideo{
+    background-color:lightgreen;
+    text-align: center;
+    padding-bottom:5em;
+    padding-top:3em;
+}
+.fourthvideo{
+    background-color:orange;
+    text-align: center;
+    padding-bottom:5em;
+    padding-top:3em;
+}
+.fifthvideo{
+    background-color:red;
+    text-align: center;
+    padding-bottom:5em;
+    padding-top:3em;
+}
+.buttonone{
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+    padding-right: 1.5em;
+    padding-left: 1.5em;
+    margin-left:52em;
+    color: black;
+    background-color: orange;
+}
+.Stuffsix{
+    background-color: red;
+}

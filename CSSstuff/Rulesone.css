@@ -1,0 +1,66 @@
+.firstslide h1{
+    color:red;
+}
+.firstslide{
+    text-align:center;
+    background-color: palegreen;
+}
+.Equip{
+    text-align:center;
+    font-size: larger;
+    font-weight: bold;
+    background-color: yellow;
+    padding-bottom:1.5em;
+    padding-top:1.5em;
+    font-size: larger;
+}
+.Stuffone{
+    background-color: yellow;
+    text-align: center;
+    padding-bottom:2em;
+}
+.Stuffone p{
+    font-weight: bold;
+}
+.Stufftwo{
+    background-color: yellow;
+    text-align: center;
+    padding-bottom:2em;
+}
+.Stufftwo p{
+    font-weight: bold;
+}
+.Stuffthree{
+    background-color: yellow;
+    text-align: center;
+    padding-bottom:2em;
+}
+.Stuffthree p{
+    font-weight: bold;
+}
+.Stufffour{
+    background-color: greenyellow;
+    text-align: center;
+    padding-top: 3em;
+    Padding-bottom:2em
+
+}
+.Stufffive{
+    background-color: greenyellow;
+    text-align: center;
+    padding-top: 3em;
+    Padding-bottom:2em;
+
+}
+.buttonone{
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+    padding-right: 1.5em;
+    padding-left: 1.5em;
+    margin-left:50em;
+    color: black;
+    background-color: orange;
+}
+.Stuffsix{
+    background-color: greenyellow;
+}
