@@ -1,0 +1,99 @@
+.crikhead{
+   background-image: url(../Images/gettyimages-518022060-612x612.jpg); 
+   background-repeat: repeat-y;  
+   background-repeat: repeat-x; 
+   background-size: 100em;
+   padding-bottom: 12em;
+   padding-left: 20em;
+   padding-right: 15em;
+
+}
+
+.crikhead h1{
+    text-align: center;
+    color:red;
+    padding-bottom: 5em;
+    font-size: xx-large;
+}   
+.specialcolor{
+    color:green;
+}
+    
+.crikhead p{
+    text-align: center;
+    color: blue;
+    font-size: x-large;
+}
+
+.secondslide {
+    background-image: url(../Images/68ee4-15604579399702-500.jpg);
+    padding-bottom: 20em;
+    background-repeat: repeat-y;  
+    background-repeat: repeat-x; 
+    background-size: 100em;
+
+}
+
+.secondslide .buttonone{
+    margin-top:25em;
+    margin-left:15em;
+    padding-top: 2.5em;
+    padding-bottom: 2.5em;
+    padding-right: 2.5em;
+    padding-left: 2.5em;
+    color: black;
+    background-color: green;
+}
+.secondslide .buttontwo{
+    margin-top:25em;
+    margin-left:25em;
+    padding-top: 2.5em;
+    padding-bottom: 2.5em;
+    padding-right: 2.5em;
+    padding-left: 2.5em;
+    color: black;
+    background-color: orange;
+}
+.secondslide .buttonthree{
+    margin-top:25em;
+    margin-left:28em;
+    padding-top: 2.5em;
+    padding-bottom: 2.5em;
+    padding-right: 2.5em;
+    padding-left: 2.5em;
+    color: black;
+    background-color:red;
+}
+.thirdslide {
+    background-image: url(../Images/south-africa-v-bangladesh-icc-cricket-world-cup-2019-cricket-the-oval-london-uk-shutterstock-editorial-10266421c.jpg);
+    padding-bottom: 15em;
+    background-repeat: repeat-y;  
+    background-repeat: repeat-x; 
+    background-size: 100em;
+    text-align: center;
+}
+.thirdslide p{
+    padding-top: 2em;
+    font-size:x-large;
+    padding-bottom: 3em;
+    font-weight:bold;
+}
+.fourthslide{
+    background-image:url(../Images/zimbabwe-suspended-from-international-cricket.webp);
+    background-repeat: repeat-y;  
+    background-repeat: repeat-x; 
+    background-size: 100em;
+    text-align:center;
+    padding-bottom:4em;
+}
+.fourthslide h1{
+    padding-bottom:1em;
+    
+}
+.fifthslide{
+    text-align: center;
+    background-color: greenyellow;
+    padding-bottom: 3em;
+    padding-top: 2em;
+    font-size: larger;
+}
